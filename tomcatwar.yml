@@ -1,5 +1,6 @@
 ---
 - hosts: tomcatServer
+sudo: yes
   vars:
   - warName: sample.war
   - warRemotePath: /opt/tomcat

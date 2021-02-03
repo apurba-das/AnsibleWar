@@ -1,2 +1,2 @@
 [tomcatServers]
-54.208.245.91
+http://ec2-52-3-243-218.compute-1.amazonaws.com:8080/
